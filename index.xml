@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Light Of The Fireflies</title>
+    <link>https://yashgosa.github.io/</link>
+    <description>Recent content on The Light Of The Fireflies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Feb 2024 17:44:52 +0530</lastBuildDate>
+    <atom:link href="https://yashgosa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Num_th</title>
+      <link>https://yashgosa.github.io/posts/num_th/</link>
+      <pubDate>Mon, 19 Feb 2024 17:44:52 +0530</pubDate>
+      <guid>https://yashgosa.github.io/posts/num_th/</guid>
+      <description>#Hello my name is yash!!:</description>
+    </item>
+  </channel>
+</rss>
