@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Light of the Fireflies</title>
-    <link>https://thelightofthefireflies.github.io/</link>
+    <link>https://yashgosa.github.io/</link>
     <description>Recent content on Light of the Fireflies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://thelightofthefireflies.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Feb 2024 23:48:13 +0530</lastBuildDate>
+    <atom:link href="https://yashgosa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://thelightofthefireflies.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://thelightofthefireflies.github.io/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <title>DAY0</title>
+      <link>https://yashgosa.github.io/posts/day0/</link>
+      <pubDate>Sat, 24 Feb 2024 23:48:13 +0530</pubDate>
+      <guid>https://yashgosa.github.io/posts/day0/</guid>
+      <description>Day 0
+Dedicate at least one hour to working out. Grasp at least one concept of Data Structures and Algorithms (DSA). Solve the problem of the day from platforms like GeeksforGeeks (GFG), LeetCode, and Codeforces. Maintain a slight calorie deficit in your diet. Consume at least one gallon of water. Read 5 pages of a book. Spend at least 15 minutes reading The Times of India (TOI). Today marks the beginning of my &amp;ldquo;Two Powers Challenge.</description>
     </item>
   </channel>
 </rss>
