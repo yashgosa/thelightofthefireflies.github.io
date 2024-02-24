@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
     <loc>https://yashgosa.github.io/posts/day0/</loc>
     <lastmod>2024-02-24T23:48:13+05:30</lastmod>
   </url><url>
@@ -11,16 +10,6 @@
   </url><url>
     <loc>https://yashgosa.github.io/posts/</loc>
     <lastmod>2024-02-24T23:48:13+05:30</lastmod>
-=======
-    <loc>https://yashgosa.github.io/posts/num_th/</loc>
-    <lastmod>2024-02-19T17:44:52+05:30</lastmod>
-  </url><url>
-    <loc>https://yashgosa.github.io/posts/</loc>
-    <lastmod>2024-02-19T17:44:52+05:30</lastmod>
-  </url><url>
-    <loc>https://yashgosa.github.io/</loc>
-    <lastmod>2024-02-19T17:44:52+05:30</lastmod>
->>>>>>> f0efc936a3ab01fcb688e4d9824954ecaeeb2cd4
   </url><url>
     <loc>https://yashgosa.github.io/categories/</loc>
   </url><url>
